@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.6.1-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_wvZcgPXpEeelTr33Z6lT7A" type="Class" name="classdiagram">
+  <eAnnotations xmi:id="_wvotEPXpEeelTr33Z6lT7A" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_wvotEfXpEeelTr33Z6lT7A" key="com.ibm.xtools.activities.EJB3JPAVisualizerActivity" value="1"/>
+    <details xmi:id="_wvpUIPXpEeelTr33Z6lT7A" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+    <details xmi:id="_wvpUIfXpEeelTr33Z6lT7A" key="com.ibm.xtools.viz.java.webservice.capability" value="1"/>
+  </eAnnotations>
+  <element xsi:nil="true"/>
+</umlnotation:UMLDiagram>
