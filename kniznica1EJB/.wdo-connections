@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections:connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:connections="http://www.ibm.com/websphere/wdo/connections">
+  <connection id="kniznicaDB">
+    <development xsi:type="connections:rsc-live-connection" id="kniznicaDB_dev" name="kniznicaDB"/>
+    <runtime xsi:type="connections:datasource-connection" auto-deploy="true" class-location="${DERBY_JDBC_DRIVER_PATH}/derby.jar" id="kniznicaDB_runtime" classname="org.apache.derby.jdbc.EmbeddedConnectionPoolDataSource" database-location="C:\Users\dedera\kniznicaDB;create=true" database-name="kniznicaDB" jndi-name="jdbc/kniznicaDB" resource-reference-name="kniznicaDB" server-name="derby:C:\Users\dedera\kniznicaDB" sql-vendor-type="36" userid=""/>
+  </connection>
+</connections:connections>

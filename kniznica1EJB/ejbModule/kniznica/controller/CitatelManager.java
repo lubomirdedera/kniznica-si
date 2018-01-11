@@ -1,6 +1,9 @@
 package kniznica.controller;
 
 import com.ibm.jpa.web.JPAManager;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import com.ibm.jpa.web.NamedQueryTarget;
@@ -12,7 +15,8 @@ import javax.persistence.PersistenceUnit;
 
 import java.util.List;
 import javax.persistence.Query;
-
+@Stateless
+@LocalBean
 @SuppressWarnings("unchecked")
 @JPAManager(targetEntity = kniznica.entities.Citatel.class)
 public class CitatelManager {
@@ -21,7 +25,7 @@ public class CitatelManager {
 	private EntityManagerFactory emf;
 
 	public CitatelManager() {
-
+		
 	}
 
 	private EntityManager getEntityManager() {
@@ -77,6 +81,34 @@ public class CitatelManager {
 		Citatel citatel = new Citatel();
 
 		return citatel;
+	}
+
+	@NamedQueryTarget("Citatel.findByRc")
+	public List<Citatel> Citatel_findByRc(long rc) {
+		EntityManager em = getEntityManager();
+		List<Citatel> results = null;
+		try {
+			Query query = em.createNamedQuery("Citatel.findByRc");
+			query.setParameter("rc", rc);
+			results = (List<Citatel>) query.getResultList();
+		} finally {
+			em.close();
+		}
+		return results;
+	}
+
+	@NamedQueryTarget("Citatel.findByPriezvisko")
+	public List<Citatel> Citatel_findByPriezvisko(String priezvisko) {
+		EntityManager em = getEntityManager();
+		List<Citatel> results = null;
+		try {
+			Query query = em.createNamedQuery("Citatel.findByPriezvisko");
+			query.setParameter("priezvisko", priezvisko);
+			results = (List<Citatel>) query.getResultList();
+		} finally {
+			em.close();
+		}
+		return results;
 	}
 
 	@NamedQueryTarget("Citatel.findAll")

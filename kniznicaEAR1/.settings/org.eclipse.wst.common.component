@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="kniznicaEAR1">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="kniznica1EJB.jar" deploy-path="/" handle="module:/resource/kniznica1EJB/kniznica1EJB">
+            <dependent-object>Module_1515489770153</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="kniznica1EJBClient.jar" deploy-path="/" handle="module:/resource/kniznica1EJBClient/kniznica1EJBClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="kniznica1EJBTest.war" deploy-path="/" handle="module:/resource/kniznica1EJBTest/kniznica1EJBTest">
+            <dependent-object>Module_1515650169330</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

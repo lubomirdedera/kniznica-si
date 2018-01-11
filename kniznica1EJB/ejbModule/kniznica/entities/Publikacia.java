@@ -10,7 +10,9 @@ import java.util.List;
  */
 @Entity
 @Table(name = "\"Publikacia\"")
-@NamedQuery(name = "Publikacia.findAll", query = "SELECT p FROM Publikacia p")
+@NamedQueries({
+		@NamedQuery(name = "Publikacia.find", query = "SELECT p FROM Publikacia p WHERE p.autor LIKE :autor AND p.nazov LIKE :nazov ORDER BY p.autor, p.nazov"),
+		@NamedQuery(name = "Publikacia.findAll", query = "SELECT p FROM Publikacia p") })
 public class Publikacia implements Serializable {
 	private static final long serialVersionUID = 1L;
 

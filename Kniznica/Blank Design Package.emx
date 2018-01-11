@@ -533,8 +533,8 @@
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedAttribute>
           <interfaceRealization xmi:id="_P_DwwPXaEeelTr33Z6lT7A" client="_P-PRYfXaEeelTr33Z6lT7A">
-            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
-            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
+            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
           </interfaceRealization>
           <ownedOperation xmi:id="_P--RMPXaEeelTr33Z6lT7A" name="VypozickaPK" visibility="public"/>
           <ownedOperation xmi:id="_P--4QPXaEeelTr33Z6lT7A" name="getEcc" visibility="public">
@@ -582,10 +582,10 @@
           </ownedAttribute>
           <ownedAttribute xmi:id="_QAfUIfXaEeelTr33Z6lT7A" name="id" visibility="private" type="_P-PRYfXaEeelTr33Z6lT7A"/>
           <ownedAttribute xmi:id="_YvQ1cfUGEeeiT--8q7QodA" name="datumVypozicky" visibility="private">
-            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedAttribute>
           <ownedAttribute xmi:id="_YvQ1cvUGEeeiT--8q7QodA" name="terminVratenia" visibility="private">
-            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedAttribute>
           <ownedAttribute xmi:id="_YvQ1c_UGEeeiT--8q7QodA" name="citatel" visibility="private" type="_YvRcgPUGEeeiT--8q7QodA" aggregation="shared" association="_YvTRsPUGEeeiT--8q7QodA">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YvQ1dPUGEeeiT--8q7QodA" value="1"/>
@@ -596,8 +596,8 @@
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YvQ1ePUGEeeiT--8q7QodA" value="1"/>
           </ownedAttribute>
           <interfaceRealization xmi:id="_QAxA8vXaEeelTr33Z6lT7A" client="_YvQ1cPUGEeeiT--8q7QodA">
-            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
-            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
+            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
           </interfaceRealization>
           <ownedOperation xmi:id="_YvQ1efUGEeeiT--8q7QodA" name="Vypozicka" visibility="public"/>
           <ownedOperation xmi:id="_QAlawfXaEeelTr33Z6lT7A" name="getId" visibility="public">
@@ -608,22 +608,22 @@
           </ownedOperation>
           <ownedOperation xmi:id="_QAmo4fXaEeelTr33Z6lT7A" name="getDatumVypozicky" visibility="public">
             <ownedParameter xmi:id="_QAmo4vXaEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
-              <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+              <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_QAnP8PXaEeelTr33Z6lT7A" name="setDatumVypozicky" visibility="public">
             <ownedParameter xmi:id="_QAnP8fXaEeelTr33Z6lT7A" name="datumVypozicky">
-              <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+              <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_QAnP8vXaEeelTr33Z6lT7A" name="getTerminVratenia" visibility="public">
             <ownedParameter xmi:id="_QAn3APXaEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
-              <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+              <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_QAn3AfXaEeelTr33Z6lT7A" name="setTerminVratenia" visibility="public">
             <ownedParameter xmi:id="_QAoeEPXaEeelTr33Z6lT7A" name="terminVratenia">
-              <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+              <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_QAoeEfXaEeelTr33Z6lT7A" name="getCitatel" visibility="public">
@@ -699,8 +699,8 @@
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YvRclfUGEeeiT--8q7QodA"/>
           </ownedAttribute>
           <interfaceRealization xmi:id="_QBO7APXaEeelTr33Z6lT7A" client="_YvRcgPUGEeeiT--8q7QodA">
-            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
-            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
+            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
           </interfaceRealization>
           <ownedOperation xmi:id="_YvRclvUGEeeiT--8q7QodA" name="Citatel" visibility="public">
             <ownedComment xmi:id="_YvRcl_UGEeeiT--8q7QodA" annotatedElement="_YvRclvUGEeeiT--8q7QodA">
@@ -842,8 +842,8 @@
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YvSDnfUGEeeiT--8q7QodA"/>
           </ownedAttribute>
           <interfaceRealization xmi:id="_QAeGAvXaEeelTr33Z6lT7A" client="_YvSDkPUGEeeiT--8q7QodA">
-            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
-            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
+            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
           </interfaceRealization>
           <ownedOperation xmi:id="_YvSDnvUGEeeiT--8q7QodA" name="Publikacia" visibility="public">
             <ownedComment xmi:id="_YvSDn_UGEeeiT--8q7QodA" annotatedElement="_YvSDnvUGEeeiT--8q7QodA">
@@ -971,25 +971,25 @@
       <packagedElement xmi:type="uml:Package" xmi:id="_P-iMUPXaEeelTr33Z6lT7A" name="controller">
         <packagedElement xmi:type="uml:Class" xmi:id="_P-izYPXaEeelTr33Z6lT7A" name="PublikaciaManager">
           <ownedAttribute xmi:id="_P_EX0PXaEeelTr33Z6lT7A" name="emf" visibility="private">
-            <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManagerFactory%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManagerFactory%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
           </ownedAttribute>
           <ownedOperation xmi:id="_P_Fl8PXaEeelTr33Z6lT7A" name="PublikaciaManager" visibility="public"/>
           <ownedOperation xmi:id="_P_Fl8fXaEeelTr33Z6lT7A" name="getEntityManager" visibility="private">
             <ownedParameter xmi:id="_P_Fl8vXaEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
-              <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManager%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+              <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManager%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_P_GNAPXaEeelTr33Z6lT7A" name="createPublikacia" visibility="public">
             <ownedParameter xmi:id="_P_G0EPXaEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_P_HbIPXaEeelTr33Z6lT7A" name="deletePublikacia" visibility="public">
             <ownedParameter xmi:id="_P_HbIfXaEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_P_IpQPXaEeelTr33Z6lT7A" name="updatePublikacia" visibility="public">
             <ownedParameter xmi:id="_P_IpQfXaEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_P_J3YPXaEeelTr33Z6lT7A" name="findPublikaciaByEcp" visibility="public">
             <ownedParameter xmi:id="_P_J3YfXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvSDkPUGEeeiT--8q7QodA" direction="return"/>
@@ -1009,25 +1009,25 @@
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_P-phEPXaEeelTr33Z6lT7A" name="CitatelManager">
           <ownedAttribute xmi:id="_P_7TcPXaEeelTr33Z6lT7A" name="emf" visibility="private">
-            <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManagerFactory%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManagerFactory%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
           </ownedAttribute>
           <ownedOperation xmi:id="_P_8hkPXaEeelTr33Z6lT7A" name="CitatelManager" visibility="public"/>
           <ownedOperation xmi:id="_P_8hkfXaEeelTr33Z6lT7A" name="getEntityManager" visibility="private">
             <ownedParameter xmi:id="_P_9IoPXaEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
-              <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManager%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+              <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManager%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_P_9IofXaEeelTr33Z6lT7A" name="createCitatel" visibility="public">
             <ownedParameter xmi:id="_P_9vsPXaEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_P_-WwPXaEeelTr33Z6lT7A" name="deleteCitatel" visibility="public">
             <ownedParameter xmi:id="_P_-90PXaEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QAAL8PXaEeelTr33Z6lT7A" name="updateCitatel" visibility="public">
             <ownedParameter xmi:id="_QAAzAPXaEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QABaEPXaEeelTr33Z6lT7A" name="findCitatelByEcc" visibility="public">
             <ownedParameter xmi:id="_QABaEfXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvRcgPUGEeeiT--8q7QodA" direction="return"/>
@@ -1047,25 +1047,25 @@
         </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_P-xc4PXaEeelTr33Z6lT7A" name="VypozickaManager">
           <ownedAttribute xmi:id="_QAxoAPXaEeelTr33Z6lT7A" name="emf" visibility="private">
-            <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManagerFactory%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManagerFactory%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
           </ownedAttribute>
           <ownedOperation xmi:id="_QAy2IPXaEeelTr33Z6lT7A" name="VypozickaManager" visibility="public"/>
           <ownedOperation xmi:id="_QAzdMPXaEeelTr33Z6lT7A" name="getEntityManager" visibility="private">
             <ownedParameter xmi:id="_QAzdMfXaEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
-              <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManager%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+              <type xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=javax.persistence.EntityManager%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
             </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_QA0EQPXaEeelTr33Z6lT7A" name="createVypozicka" visibility="public">
             <ownedParameter xmi:id="_QA0EQfXaEeelTr33Z6lT7A" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QA1SYPXaEeelTr33Z6lT7A" name="deleteVypozicka" visibility="public">
             <ownedParameter xmi:id="_QA1SYfXaEeelTr33Z6lT7A" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QA2ggPXaEeelTr33Z6lT7A" name="updateVypozicka" visibility="public">
             <ownedParameter xmi:id="_QA2ggfXaEeelTr33Z6lT7A" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QA3uoPXaEeelTr33Z6lT7A" name="findVypozickaByPrimaryKey" visibility="public">
             <ownedParameter xmi:id="_QA3uofXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" direction="return"/>
@@ -1098,17 +1098,17 @@
             <ownedParameter xmi:id="_vWTB8PXxEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pivMEvXqEeelTr33Z6lT7A" name="najdiCitatela" visibility="package">
             <ownedComment xmi:id="_XnulwPXvEeelTr33Z6lT7A" annotatedElement="_pivMEvXqEeelTr33Z6lT7A">
-              <body>&lt;p>Vráti čitateľa so zadaným evidenčným číslom.&lt;/p></body>
+              <body>&lt;p>Vráti čitateľa so zadaným evidenčným číslom. Ak taký neexistuje, vráti null.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pivME_XqEeelTr33Z6lT7A" name="ReturnParameter" type="_YvRcgPUGEeeiT--8q7QodA" direction="return"/>
             <ownedParameter xmi:id="_pivzIPXqEeelTr33Z6lT7A" name="ecc">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pivzIfXqEeelTr33Z6lT7A" name="najdiCitatela" visibility="package">
             <ownedComment xmi:id="_c15TwPXvEeelTr33Z6lT7A" annotatedElement="_pivzIfXqEeelTr33Z6lT7A">
@@ -1121,21 +1121,21 @@
             <ownedParameter xmi:id="_piwaMfXqEeelTr33Z6lT7A" name="priezvisko">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_piwaMvXqEeelTr33Z6lT7A" name="aktualizujCitatela" visibility="package">
             <ownedComment xmi:id="_5c-JQPXsEeelTr33Z6lT7A" annotatedElement="_piwaMvXqEeelTr33Z6lT7A">
               <body>&lt;p>Aktualizuje v systéme čitateľa  podľa atribútov v citatel.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pixBQPXqEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pixBQfXqEeelTr33Z6lT7A" name="zrusCitatela" visibility="package">
             <ownedComment xmi:id="_5OJbYPXyEeelTr33Z6lT7A" annotatedElement="_pixBQfXqEeelTr33Z6lT7A">
               <body>&lt;p>Zruší evidenciu zadaného čitateľa v systéme, ak nemá evidované žiadne výpožičky.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pixBQvXqEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pixBQ_XqEeelTr33Z6lT7A" name="zaevidujPublikaciu" visibility="package">
             <ownedComment xmi:id="_SUhfYPXyEeelTr33Z6lT7A" annotatedElement="_pixBQ_XqEeelTr33Z6lT7A">
@@ -1145,19 +1145,22 @@
             <ownedParameter xmi:id="_TXuo0PXyEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pixoUfXqEeelTr33Z6lT7A" name="najdiPublikaciu" visibility="package">
             <ownedComment xmi:id="_h3pWYPXvEeelTr33Z6lT7A" annotatedElement="_pixoUfXqEeelTr33Z6lT7A">
-              <body>&lt;p>Vráti publikáciu so zadaným evidenčným číslom publikácie&lt;/p></body>
+              <body>&lt;p>Vráti publikáciu so zadaným evidenčným číslom publikácie. Ak taká neexistuje, vráti null.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pixoUvXqEeelTr33Z6lT7A" name="ReturnParameter" type="_YvSDkPUGEeeiT--8q7QodA" direction="return"/>
             <ownedParameter xmi:id="_pixoU_XqEeelTr33Z6lT7A" name="ecp">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_piyPYPXqEeelTr33Z6lT7A" name="najdiPublikaciu" visibility="package">
+            <ownedComment xmi:id="_fkK_MPawEee0M-1KmaNGlg" annotatedElement="_piyPYPXqEeelTr33Z6lT7A">
+              <body>&lt;p>Vytvorí zoznam publikácii, kde nájde medzi autormi a názvami dané textové reťazce.&lt;/p></body>
+            </ownedComment>
             <ownedParameter xmi:id="_piyPYfXqEeelTr33Z6lT7A" name="ReturnParameter" type="_YvSDkPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
               <ownedComment xmi:id="_4Yu9sPXvEeelTr33Z6lT7A" annotatedElement="_piyPYfXqEeelTr33Z6lT7A">
                 <body>&lt;p>Vráti zoznam publikácii korešpondujúci so zadaným autorom alebo názvom.&lt;/p></body>
@@ -1171,7 +1174,7 @@
             <ownedParameter xmi:id="_piy2cfXqEeelTr33Z6lT7A" name="nazov">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_piy2cvXqEeelTr33Z6lT7A" name="vyradPublikaciu" visibility="package">
             <ownedComment xmi:id="_RJK8APXxEeelTr33Z6lT7A" annotatedElement="_piy2cvXqEeelTr33Z6lT7A">
@@ -1182,7 +1185,7 @@
                 <body>&lt;p>&lt;/p></body>
               </ownedComment>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pizdgPXqEeelTr33Z6lT7A" name="vypozicajPublikaciu" visibility="package">
             <ownedComment xmi:id="_K5UHgPXxEeelTr33Z6lT7A" annotatedElement="_pizdgPXqEeelTr33Z6lT7A">
@@ -1193,7 +1196,7 @@
             <ownedParameter xmi:id="_pizdg_XqEeelTr33Z6lT7A" name="vypozicnaLehota">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi0EkPXqEeelTr33Z6lT7A" name="vratPublikaciu" visibility="package">
             <ownedParameter xmi:id="_pi0EkfXqEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA">
@@ -1201,7 +1204,7 @@
                 <body>&lt;p>Zruší výpožičku zadanej publikácie v systéme.&lt;/p></body>
               </ownedComment>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi0EkvXqEeelTr33Z6lT7A" name="najdiVypozickyCitatela" visibility="package">
             <ownedComment xmi:id="_ePbdEPXwEeelTr33Z6lT7A" annotatedElement="_pi0EkvXqEeelTr33Z6lT7A">
@@ -1212,7 +1215,7 @@
               <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pi0roPXqEeelTr33Z6lT7A"/>
             </ownedParameter>
             <ownedParameter xmi:id="_pi0rovXqEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi0ro_XqEeelTr33Z6lT7A" name="najdiVypozickuPublikacie" visibility="package">
             <ownedParameter xmi:id="_pi0rpPXqEeelTr33Z6lT7A" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" direction="return">
@@ -1221,7 +1224,7 @@
               </ownedComment>
             </ownedParameter>
             <ownedParameter xmi:id="_pi1SsPXqEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi1SsfXqEeelTr33Z6lT7A" name="predlzVypozicku" visibility="package">
             <ownedComment xmi:id="_mPNXEPXwEeelTr33Z6lT7A" annotatedElement="_pi1SsfXqEeelTr33Z6lT7A">
@@ -1231,7 +1234,7 @@
             <ownedParameter xmi:id="_pi15wPXqEeelTr33Z6lT7A" name="pocetDni">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi15wfXqEeelTr33Z6lT7A" name="predlzVypozicku" visibility="package">
             <ownedComment xmi:id="_r7gykPXwEeelTr33Z6lT7A" annotatedElement="_pi15wfXqEeelTr33Z6lT7A">
@@ -1241,21 +1244,21 @@
             <ownedParameter xmi:id="_pi15w_XqEeelTr33Z6lT7A" name="pocetDni">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi2g0PXqEeelTr33Z6lT7A" name="aktualizujVypozicku" visibility="package">
             <ownedComment xmi:id="_QlvwwPXvEeelTr33Z6lT7A" annotatedElement="_pi2g0PXqEeelTr33Z6lT7A">
               <body>&lt;p>Aktualizuje výpožičku v systéme podľa parametra vypozicka.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pi2g0fXqEeelTr33Z6lT7A" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi2g0vXqEeelTr33Z6lT7A" name="zosynchronizujVypozickyCitatela" visibility="package">
             <ownedComment xmi:id="_o1OsMPXyEeelTr33Z6lT7A" annotatedElement="_pi2g0vXqEeelTr33Z6lT7A">
               <body>&lt;p>U zadaného čitateľa zosynchronizuje jeho výpožičky podľa evidencie v systéme.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pi3H4PXqEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi3H4fXqEeelTr33Z6lT7A" name="zosynchronizujVypozickuPublikacie" visibility="package">
             <ownedComment xmi:id="_kS4iYPXyEeelTr33Z6lT7A" annotatedElement="_pi3H4fXqEeelTr33Z6lT7A">
@@ -1266,7 +1269,7 @@
                 <body>&lt;p>&lt;/p></body>
               </ownedComment>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi3H4_XqEeelTr33Z6lT7A" name="najdiVsetkyVypozicky" visibility="package">
             <ownedComment xmi:id="_-ne-8PXvEeelTr33Z6lT7A" annotatedElement="_pi3H4_XqEeelTr33Z6lT7A">
@@ -1276,7 +1279,7 @@
               <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pi3u8fXqEeelTr33Z6lT7A" value="*"/>
               <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pi3u8vXqEeelTr33Z6lT7A"/>
             </ownedParameter>
-            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
         </packagedElement>
       </packagedElement>
@@ -1358,4 +1361,5 @@
   <Default:Documentation xmi:id="_kS8MwPXyEeelTr33Z6lT7A" base_Comment="_kS4iYPXyEeelTr33Z6lT7A"/>
   <Default:Documentation xmi:id="_o1RIcPXyEeelTr33Z6lT7A" base_Comment="_o1OsMPXyEeelTr33Z6lT7A"/>
   <Default:Documentation xmi:id="_5ONFwPXyEeelTr33Z6lT7A" base_Comment="_5OJbYPXyEeelTr33Z6lT7A"/>
+  <Default:Documentation xmi:id="_fkUJIPawEee0M-1KmaNGlg" base_Comment="_fkK_MPawEee0M-1KmaNGlg"/>
 </xmi:XMI>

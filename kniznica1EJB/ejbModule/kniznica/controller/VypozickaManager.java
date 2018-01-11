@@ -1,19 +1,20 @@
 package kniznica.controller;
 
 import com.ibm.jpa.web.JPAManager;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import com.ibm.jpa.web.NamedQueryTarget;
-
-import kniznica.entities.Vypozicka;
-import kniznica.entities.VypozickaPK;
-
 import com.ibm.jpa.web.Action;
 import javax.persistence.PersistenceUnit;
-
+import kniznica.entities.Vypozicka;
+import kniznica.entities.VypozickaPK;
 import java.util.List;
 import javax.persistence.Query;
-
+@Stateless
+@LocalBean
 @SuppressWarnings("unchecked")
 @JPAManager(targetEntity = kniznica.entities.Vypozicka.class)
 public class VypozickaManager {
@@ -22,7 +23,7 @@ public class VypozickaManager {
 	private EntityManagerFactory emf;
 
 	public VypozickaManager() {
-
+		
 	}
 
 	private EntityManager getEntityManager() {
@@ -84,6 +85,34 @@ public class VypozickaManager {
 		vypozicka.setId(id);
 
 		return vypozicka;
+	}
+
+	@NamedQueryTarget("Vypozicka.findByEcp")
+	public List<Vypozicka> Vypozicka_findByEcp(int ecp) {
+		EntityManager em = getEntityManager();
+		List<Vypozicka> results = null;
+		try {
+			Query query = em.createNamedQuery("Vypozicka.findByEcp");
+			query.setParameter("ecp", ecp);
+			results = (List<Vypozicka>) query.getResultList();
+		} finally {
+			em.close();
+		}
+		return results;
+	}
+
+	@NamedQueryTarget("Vypocicka.findByEcc")
+	public List<Vypozicka> Vypocicka_findByEcc(int ecc) {
+		EntityManager em = getEntityManager();
+		List<Vypozicka> results = null;
+		try {
+			Query query = em.createNamedQuery("Vypocicka.findByEcc");
+			query.setParameter("ecc", ecc);
+			results = (List<Vypozicka>) query.getResultList();
+		} finally {
+			em.close();
+		}
+		return results;
 	}
 
 	@NamedQueryTarget("Vypozicka.findAll")

@@ -10,7 +10,9 @@ import java.util.List;
  */
 @Entity
 @Table(name = "\"Citatel\"")
-@NamedQuery(name = "Citatel.findAll", query = "SELECT c FROM Citatel c")
+@NamedQueries({ @NamedQuery(name = "Citatel.findByRc", query = "SELECT c FROM Citatel c WHERE c.rc = :rc"),
+		@NamedQuery(name = "Citatel.findByPriezvisko", query = "SELECT c FROM Citatel c WHERE c.priezvisko LIKE :priezvisko ORDER BY c.priezvisko, c.meno"),
+		@NamedQuery(name = "Citatel.findAll", query = "SELECT c FROM Citatel c") })
 public class Citatel implements Serializable {
 	private static final long serialVersionUID = 1L;
 

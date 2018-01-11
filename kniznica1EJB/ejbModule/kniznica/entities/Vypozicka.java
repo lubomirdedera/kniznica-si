@@ -10,7 +10,9 @@ import java.util.Date;
  */
 @Entity
 @Table(name = "\"Vypozicka\"")
-@NamedQuery(name = "Vypozicka.findAll", query = "SELECT v FROM Vypozicka v")
+@NamedQueries({ @NamedQuery(name = "Vypozicka.findByEcp", query = "SELECT v FROM Vypozicka v WHERE v.id.ecp = :ecp"),
+		@NamedQuery(name = "Vypocicka.findByEcc", query = "SELECT v FROM Vypozicka v WHERE v.id.ecc = :ecc ORDER BY v.terminVratenia"),
+		@NamedQuery(name = "Vypozicka.findAll", query = "SELECT v FROM Vypozicka v") })
 public class Vypozicka implements Serializable {
 	private static final long serialVersionUID = 1L;
 
@@ -27,12 +29,12 @@ public class Vypozicka implements Serializable {
 
 	//bi-directional many-to-one association to Citatel
 	@ManyToOne
-	@JoinColumns({})
+	@JoinColumn(name = "\"ecc\"")
 	private Citatel citatel;
 
 	//bi-directional many-to-one association to Publikacia
 	@ManyToOne
-	@JoinColumns({})
+	@JoinColumn(name = "\"ecp\"")
 	private Publikacia publikacia;
 
 	public Vypozicka() {

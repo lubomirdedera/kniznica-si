@@ -1,18 +1,19 @@
 package kniznica.controller;
 
 import com.ibm.jpa.web.JPAManager;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import com.ibm.jpa.web.NamedQueryTarget;
-
-import kniznica.entities.Publikacia;
-
 import com.ibm.jpa.web.Action;
 import javax.persistence.PersistenceUnit;
-
+import kniznica.entities.Publikacia;
 import java.util.List;
 import javax.persistence.Query;
-
+@Stateless
+@LocalBean
 @SuppressWarnings("unchecked")
 @JPAManager(targetEntity = kniznica.entities.Publikacia.class)
 public class PublikaciaManager {
@@ -21,7 +22,7 @@ public class PublikaciaManager {
 	private EntityManagerFactory emf;
 
 	public PublikaciaManager() {
-
+		
 	}
 
 	private EntityManager getEntityManager() {
@@ -77,6 +78,21 @@ public class PublikaciaManager {
 		Publikacia publikacia = new Publikacia();
 
 		return publikacia;
+	}
+
+	@NamedQueryTarget("Publikacia.find")
+	public List<Publikacia> Publikacia_find(String autor, String nazov) {
+		EntityManager em = getEntityManager();
+		List<Publikacia> results = null;
+		try {
+			Query query = em.createNamedQuery("Publikacia.find");
+			query.setParameter("autor", "%" + autor + "%");
+			query.setParameter("nazov", "%" + nazov + "%");
+			results = (List<Publikacia>) query.getResultList();
+		} finally {
+			em.close();
+		}
+		return results;
 	}
 
 	@NamedQueryTarget("Publikacia.findAll")

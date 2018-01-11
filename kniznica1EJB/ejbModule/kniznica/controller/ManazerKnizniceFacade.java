@@ -9,12 +9,12 @@ import kniznica.entities.Publikacia;
 import kniznica.entities.Vypozicka;
 
 /** 
-* <!-- begin-UML-doc -->
-* <p>Rozhranie reprezentujúce riadiacu vrstvu kninièného systému voèi pouívate¾skému rozhraniu.</p>
-* <!-- end-UML-doc -->
-* @author dedera
-* @generated "UML to Java (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
-*/
+ * <!-- begin-UML-doc -->
+ * <p>Rozhranie reprezentujúce riadiacu vrstvu kninièného systému voèi pouívate¾skému rozhraniu.</p>
+ * <!-- end-UML-doc -->
+ * @author dedera
+ * @generated "UML to Java (com.ibm.xtools.transform.uml2.java5.internal.UML2JavaTransform)"
+ */
 public interface ManazerKnizniceFacade {
 	/** 
 	* <!-- begin-UML-doc -->
@@ -29,7 +29,7 @@ public interface ManazerKnizniceFacade {
 
 	/** 
 	* <!-- begin-UML-doc -->
-	* <p>Vráti èitate¾a so zadanım evidenènım èíslom.</p>
+	* <p>Vráti èitate¾a so zadanım evidenènım èíslom. Ak takı neexistuje, vráti null.</p>
 	* <!-- end-UML-doc -->
 	* @param ecc
 	* @return
@@ -82,7 +82,7 @@ public interface ManazerKnizniceFacade {
 
 	/** 
 	* <!-- begin-UML-doc -->
-	* <p>Vráti publikáciu so zadanım evidenènım èíslom publikácie</p>
+	* <p>Vráti publikáciu so zadanım evidenènım èíslom publikácie. Ak taká neexistuje, vráti null.</p>
 	* <!-- end-UML-doc -->
 	* @param ecp
 	* @return
@@ -93,6 +93,7 @@ public interface ManazerKnizniceFacade {
 
 	/** 
 	* <!-- begin-UML-doc -->
+	* <p>Vytvorí zoznam publikácii, kde nájde medzi autormi a názvami dané textové reazce.</p>
 	* <!-- end-UML-doc -->
 	* @param autor
 	* @param nazov
