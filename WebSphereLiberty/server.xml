@@ -1,0 +1,30 @@
+<server description="new server">
+
+    <!-- Enable features -->
+    <featureManager>
+        <feature>jsp-2.3</feature>
+        <feature>localConnector-1.0</feature>
+        <feature>ejbLite-3.2</feature>
+        <feature>cdi-1.2</feature>
+        <feature>jpa-2.1</feature>
+        <feature>jsf-2.2</feature>
+    </featureManager>
+
+    <!-- To access this server from a remote client add a host attribute to the following element, e.g. host="*" -->
+    <httpEndpoint httpPort="9080" httpsPort="9443" id="defaultHttpEndpoint"/>
+
+    <!-- Automatically expand WAR files and EAR files -->
+    <applicationManager autoExpand="true"/>
+    <applicationMonitor updateTrigger="mbean"/>
+    
+	<dataSource id="kniznicaDB" jndiName="jdbc/kniznicaDB">
+    <jdbcDriver libraryRef="DerbyLib"/>
+    <properties.derby.embedded createDatabase="create" databaseName="C:/Users/dedera/kniznicaDB"/>
+	</dataSource>
+
+<library id="DerbyLib">
+    <fileset dir="C:/glassfish4/javadb/lib"/>
+</library>
+
+    <enterpriseApplication id="kniznicaEAR1" location="kniznicaEAR1.ear" name="kniznicaEAR1"/>
+</server>

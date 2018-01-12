@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<faces-config
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd"
+    version="2.2">  
+	<managed-bean>
+		<managed-bean-name>novyCitatelUI</managed-bean-name>
+		<managed-bean-class>kniznica.ui.NovyCitatelUI</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>pc_Header</managed-bean-name>
+		<managed-bean-class>pagecode.WEBINF.templates.Header</managed-bean-class>
+		<managed-bean-scope>request</managed-bean-scope>
+	</managed-bean>
+	<navigation-rule>
+		<display-name>NovyCitatel.xhtml</display-name>
+		<from-view-id>/NovyCitatel.xhtml</from-view-id>
+		<navigation-case>
+			<from-outcome>OK</from-outcome>
+			<to-view-id>/NovyCitatelOK.xhtml</to-view-id>
+		</navigation-case>
+	</navigation-rule>
+	<navigation-rule>
+		<display-name>NovyCitatel.xhtml</display-name>
+		<from-view-id>/NovyCitatel.xhtml</from-view-id>
+		<navigation-case>
+			<from-outcome>Chyba</from-outcome>
+			<to-view-id>/NovyCitatelChyba.xhtml</to-view-id>
+		</navigation-case>
+	</navigation-rule>
+
+</faces-config>

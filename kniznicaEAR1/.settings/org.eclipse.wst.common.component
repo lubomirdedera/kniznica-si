@@ -12,5 +12,9 @@
             <dependent-object>Module_1515650169330</dependent-object>
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="kniznica1JSF.war" deploy-path="/" handle="module:/resource/kniznica1JSF/kniznica1JSF">
+            <dependent-object>Module_1515736341073</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>

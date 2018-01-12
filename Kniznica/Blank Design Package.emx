@@ -48,6 +48,18 @@
     <packagedElement xmi:type="uml:Package" xmi:id="_d-AdIPUEEeeiT--8q7QodA" name="kniznica">
       <eAnnotations xmi:id="_d-BEMPUEEeeiT--8q7QodA" source="uml2.diagrams" references="_d-BEMfUEEeeiT--8q7QodA">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_d-BEMfUEEeeiT--8q7QodA" type="Freeform" name="Main">
+          <children xmi:type="notation:Shape" xmi:id="_N6NSEPdkEeehj5d5v4NUIQ" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>Táto časť nemusí byť  používateľskému rozhraniu viditeľná, stači, ak pozná rozhranie.&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_N6N5IPdkEeehj5d5v4NUIQ" type="DiagramName">
+              <element xsi:nil="true"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_N6N5IfdkEeehj5d5v4NUIQ" type="Description">
+              <element xsi:nil="true"/>
+            </children>
+            <styles xmi:type="notation:TextStyle" xmi:id="_N6NSEfdkEeehj5d5v4NUIQ"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_N6NSEvdkEeehj5d5v4NUIQ"/>
+            <element xsi:nil="true"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N6NSE_dkEeehj5d5v4NUIQ" x="132" y="-10428" width="25875" height="11111"/>
+          </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_e5cscPXaEeelTr33Z6lT7A" element="_YvRcgPUGEeeiT--8q7QodA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_e5gW0PXaEeelTr33Z6lT7A" type="ImageCompartment">
               <layoutConstraint xmi:type="notation:Size" xmi:id="_e5gW0fXaEeelTr33Z6lT7A" width="1320" height="1320"/>
@@ -59,7 +71,7 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_e5g94fXaEeelTr33Z6lT7A" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_e5hk8PXaEeelTr33Z6lT7A" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_e5hk8fXaEeelTr33Z6lT7A" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e5cscfXaEeelTr33Z6lT7A" y="660"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e5cscfXaEeelTr33Z6lT7A" y="924"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_ft95oPXaEeelTr33Z6lT7A" element="_YvSDkPUGEeeiT--8q7QodA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_ft-gsPXaEeelTr33Z6lT7A" type="ImageCompartment">
@@ -72,7 +84,7 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_ft_Hw_XaEeelTr33Z6lT7A" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_ft_u0PXaEeelTr33Z6lT7A" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_ft_u0fXaEeelTr33Z6lT7A" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ft95ofXaEeelTr33Z6lT7A" x="20724" y="528"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ft95ofXaEeelTr33Z6lT7A" x="20592" y="792"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_gJbtoPXaEeelTr33Z6lT7A" element="_YvQ1cPUGEeeiT--8q7QodA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_gJcUsPXaEeelTr33Z6lT7A" type="ImageCompartment">
@@ -85,7 +97,7 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_gJc7wvXaEeelTr33Z6lT7A" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_gJc7w_XaEeelTr33Z6lT7A" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_gJc7xPXaEeelTr33Z6lT7A" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gJbtofXaEeelTr33Z6lT7A" x="10824" y="4356"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gJbtofXaEeelTr33Z6lT7A" x="10850" y="4620"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_Siqm4PXjEeelTr33Z6lT7A" element="_P-phEPXaEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_Sir1APXjEeelTr33Z6lT7A" type="ImageCompartment">
@@ -98,7 +110,7 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_SitqMPXjEeelTr33Z6lT7A" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_SitqMfXjEeelTr33Z6lT7A" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_SiuRQPXjEeelTr33Z6lT7A" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Siqm4fXjEeelTr33Z6lT7A" x="132" y="-4726"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Siqm4fXjEeelTr33Z6lT7A" x="132" y="-5280"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_T2bU0PXjEeelTr33Z6lT7A" element="_P-izYPXaEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_T2ci8PXjEeelTr33Z6lT7A" type="ImageCompartment">
@@ -111,7 +123,7 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_T2eYIfXjEeelTr33Z6lT7A" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_T2e_MPXjEeelTr33Z6lT7A" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_T2e_MfXjEeelTr33Z6lT7A" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T2b74PXjEeelTr33Z6lT7A" x="19536" y="-4488"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T2b74PXjEeelTr33Z6lT7A" x="20328" y="-5148"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_Ux8h4PXjEeelTr33Z6lT7A" element="_P-xc4PXaEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_Ux9I8PXjEeelTr33Z6lT7A" type="ImageCompartment">
@@ -124,7 +136,7 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ux9I9vXjEeelTr33Z6lT7A" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ux9wAPXjEeelTr33Z6lT7A" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Ux9wAfXjEeelTr33Z6lT7A" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ux8h4fXjEeelTr33Z6lT7A" x="9636" y="-4488"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ux8h4fXjEeelTr33Z6lT7A" x="10428" y="-5148"/>
           </children>
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_xfx_UPXjEeelTr33Z6lT7A" element="_skr-UPXjEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
             <children xmi:type="notation:DecorationNode" xmi:id="_xfymYPXjEeelTr33Z6lT7A" type="ImageCompartment">
@@ -137,7 +149,33 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_xfymZvXjEeelTr33Z6lT7A" type="AttributeCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_xfzNcPXjEeelTr33Z6lT7A" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_xfzNcfXjEeelTr33Z6lT7A" visible="false" type="SignalCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xfx_UfXjEeelTr33Z6lT7A" x="9240" y="-15048"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xfx_UfXjEeelTr33Z6lT7A" x="10428" y="-20460"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_c1Zw8PdiEeehj5d5v4NUIQ" element="_Fblx4fdiEeehj5d5v4NUIQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_c1Zw8vdiEeehj5d5v4NUIQ" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_c1Zw8_diEeehj5d5v4NUIQ" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_c1Zw9PdiEeehj5d5v4NUIQ" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_c1aYAPdiEeehj5d5v4NUIQ" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_c1aYAfdiEeehj5d5v4NUIQ" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_c1a_EPdiEeehj5d5v4NUIQ" type="AttributeCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_c1a_EfdiEeehj5d5v4NUIQ" visible="false" type="OperationCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_c1a_EvdiEeehj5d5v4NUIQ" visible="false" type="SignalCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_c1a_E_diEeehj5d5v4NUIQ" visible="false" type="StructureCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c1Zw8fdiEeehj5d5v4NUIQ" x="11220" y="-9240"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_0ys6wPdmEeehj5d5v4NUIQ" element="_yHp4gfdgEeehj5d5v4NUIQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_0yth0PdmEeehj5d5v4NUIQ" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_0yth0fdmEeehj5d5v4NUIQ" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_0yth0vdmEeehj5d5v4NUIQ" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_0yth0_dmEeehj5d5v4NUIQ" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_0yuI4PdmEeehj5d5v4NUIQ" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_0yuI4fdmEeehj5d5v4NUIQ" type="AttributeCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_0yuI4vdmEeehj5d5v4NUIQ" type="OperationCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_0yuI4_dmEeehj5d5v4NUIQ" visible="false" type="SignalCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_0yuI5PdmEeehj5d5v4NUIQ" visible="false" type="StructureCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0ys6wfdmEeehj5d5v4NUIQ" x="2244" y="-24684"/>
           </children>
           <element xsi:nil="true"/>
           <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gJew8PXaEeelTr33Z6lT7A" element="_YvTRtPUGEeeiT--8q7QodA" source="_gJbtoPXaEeelTr33Z6lT7A" target="_ft95oPXaEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
@@ -262,7 +300,7 @@
               <children xmi:type="notation:ListCompartment" xmi:id="_gJmsxvXaEeelTr33Z6lT7A" type="FromConstraintCompartment"/>
               <layoutConstraint xmi:type="notation:Location" xmi:id="_gJmsxfXaEeelTr33Z6lT7A" y="1058"/>
             </children>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gJk3l_XaEeelTr33Z6lT7A" points="[53, 105, 4097, -2221]$[53, 1268, 4097, -1058]$[-3981, 1268, 63, -1058]$[-3981, 2326, 63, 0]"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gJk3l_XaEeelTr33Z6lT7A" points="[-2626, -6642, 6591, 1968]$[-8429, -6642, 788, 1968]"/>
             <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_l7YeIPXaEeelTr33Z6lT7A" id="(0.6666666666666664,0.9924498454015962)"/>
             <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_l7YeIfXaEeelTr33Z6lT7A" id="(0.8001245372386759,-2.547961063938726E-16)"/>
           </edges>
@@ -304,9 +342,53 @@
               <children xmi:type="notation:ListCompartment" xmi:id="_gJoh-PXaEeelTr33Z6lT7A" type="FromConstraintCompartment"/>
               <layoutConstraint xmi:type="notation:Location" xmi:id="_gJoh9_XaEeelTr33Z6lT7A" y="1058"/>
             </children>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gJmsyPXaEeelTr33Z6lT7A" points="[-788, 5568, 9511, -1906]$[-7673, 5568, 2626, -1906]"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gJmsyPXaEeelTr33Z6lT7A" points="[-788, 4481, 9537, -2993]$[-7699, 4481, 2626, -2993]"/>
             <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_l7aTUPXaEeelTr33Z6lT7A" id="(0.2001244643246018,-2.547961063938726E-16)"/>
             <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_l7aTUfXaEeelTr33Z6lT7A" id="(0.3333333333333333,0.9916917233739516)"/>
+          </edges>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_c1c0QPdiEeehj5d5v4NUIQ" element="_Fdf2YPdiEeehj5d5v4NUIQ" source="_c1Zw8PdiEeehj5d5v4NUIQ" target="_xfx_UPXjEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_c1eCYPdiEeehj5d5v4NUIQ" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_c1eCYvdiEeehj5d5v4NUIQ" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_c1eCY_diEeehj5d5v4NUIQ" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c1eCYfdiEeehj5d5v4NUIQ" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_c1c0QfdiEeehj5d5v4NUIQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+          </edges>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_suU8APdjEeehj5d5v4NUIQ" element="_suGSgPdjEeehj5d5v4NUIQ" source="_c1Zw8PdiEeehj5d5v4NUIQ" target="_Siqm4PXjEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_suWKIPdjEeehj5d5v4NUIQ" type="KindLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_suWKIvdjEeehj5d5v4NUIQ" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_suWKJPdjEeehj5d5v4NUIQ" type="Kind"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_suWKI_djEeehj5d5v4NUIQ" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_suWKIfdjEeehj5d5v4NUIQ" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_suU8AfdjEeehj5d5v4NUIQ" points="[-2049, 337, 8801, -5329]$[-10811, 337, 39, -5329]$[-10811, 2995, 39, -2671]"/>
+          </edges>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_yi8mAPdjEeehj5d5v4NUIQ" element="_yi14UPdjEeehj5d5v4NUIQ" source="_c1Zw8PdiEeehj5d5v4NUIQ" target="_Ux8h4PXjEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_yi9NEPdjEeehj5d5v4NUIQ" type="KindLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_yi9NEvdjEeehj5d5v4NUIQ" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_yi9NFPdjEeehj5d5v4NUIQ" type="Kind"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_yi9NE_djEeehj5d5v4NUIQ" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yi9NEfdjEeehj5d5v4NUIQ" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yi8mAfdjEeehj5d5v4NUIQ" points="[-4, 36, 12, -183]$[-3, 118, 13, -101]"/>
+          </edges>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_zzm8oPdjEeehj5d5v4NUIQ" element="_zzfn4PdjEeehj5d5v4NUIQ" source="_c1Zw8PdiEeehj5d5v4NUIQ" target="_T2bU0PXjEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_zzm8ovdjEeehj5d5v4NUIQ" type="KindLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_zzm8pPdjEeehj5d5v4NUIQ" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_zznjsfdjEeehj5d5v4NUIQ" type="Kind"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_zznjsPdjEeehj5d5v4NUIQ" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zzm8o_djEeehj5d5v4NUIQ" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zzm8ofdjEeehj5d5v4NUIQ" points="[2049, 337, -7297, -5249]$[9299, 337, -47, -5249]$[9299, 3127, -47, -2459]"/>
+          </edges>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_TU6N8PdpEeehj5d5v4NUIQ" element="_TU2jkPdpEeehj5d5v4NUIQ" source="_0ys6wPdmEeehj5d5v4NUIQ" target="_xfx_UPXjEeelTr33Z6lT7A" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_TU61AfdpEeehj5d5v4NUIQ" type="KindLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_TU61A_dpEeehj5d5v4NUIQ" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_TU8qMPdpEeehj5d5v4NUIQ" type="Kind"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_TU8DIPdpEeehj5d5v4NUIQ" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TU61AvdpEeehj5d5v4NUIQ" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_TU61APdpEeehj5d5v4NUIQ" points="[-89, 20, 326, -156]$[-354, -1, 61, -177]"/>
           </edges>
         </contents>
       </eAnnotations>
@@ -515,7 +597,7 @@
             </edges>
           </contents>
         </eAnnotations>
-        <packagedElement xmi:type="uml:Class" xmi:id="_P-PRYfXaEeelTr33Z6lT7A" name="VypozickaPK" clientDependency="_P_DwwPXaEeelTr33Z6lT7A">
+        <packagedElement xmi:type="uml:Class" xmi:id="_P-PRYfXaEeelTr33Z6lT7A" name="VypozickaPK" clientDependency="_FbxYEPdiEeehj5d5v4NUIQ _P_DwwPXaEeelTr33Z6lT7A">
           <ownedComment xmi:id="_P-Ti0PXaEeelTr33Z6lT7A" annotatedElement="_P-PRYfXaEeelTr33Z6lT7A">
             <body>The&amp;nbsp;primary&amp;nbsp;key&amp;nbsp;class&amp;nbsp;for&amp;nbsp;the&amp;nbsp;&quot;Vypozicka&quot;&amp;nbsp;database&amp;nbsp;table.&lt;br></body>
           </ownedComment>
@@ -532,6 +614,10 @@
           <ownedAttribute xmi:id="_P-9qIPXaEeelTr33Z6lT7A" name="ecp" visibility="private">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedAttribute>
+          <interfaceRealization xmi:id="_FbxYEPdiEeehj5d5v4NUIQ" client="_P-PRYfXaEeelTr33Z6lT7A">
+            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+          </interfaceRealization>
           <interfaceRealization xmi:id="_P_DwwPXaEeelTr33Z6lT7A" client="_P-PRYfXaEeelTr33Z6lT7A">
             <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
             <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
@@ -569,7 +655,7 @@
             </ownedParameter>
           </ownedOperation>
         </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_YvQ1cPUGEeeiT--8q7QodA" name="Vypozicka" clientDependency="_QAxA8vXaEeelTr33Z6lT7A">
+        <packagedElement xmi:type="uml:Class" xmi:id="_YvQ1cPUGEeeiT--8q7QodA" name="Vypozicka" clientDependency="_Fc5ZcvdiEeehj5d5v4NUIQ _QAxA8vXaEeelTr33Z6lT7A">
           <ownedComment xmi:id="_P-vAoPXaEeelTr33Z6lT7A" annotatedElement="_YvQ1cPUGEeeiT--8q7QodA">
             <body>The&amp;nbsp;persistent&amp;nbsp;class&amp;nbsp;for&amp;nbsp;the&amp;nbsp;&quot;Vypozicka&quot;&amp;nbsp;database&amp;nbsp;table.&lt;br></body>
           </ownedComment>
@@ -595,6 +681,10 @@
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YvQ1d_UGEeeiT--8q7QodA" value="1"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YvQ1ePUGEeeiT--8q7QodA" value="1"/>
           </ownedAttribute>
+          <interfaceRealization xmi:id="_Fc5ZcvdiEeehj5d5v4NUIQ" client="_YvQ1cPUGEeeiT--8q7QodA">
+            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+          </interfaceRealization>
           <interfaceRealization xmi:id="_QAxA8vXaEeelTr33Z6lT7A" client="_YvQ1cPUGEeeiT--8q7QodA">
             <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
             <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
@@ -639,7 +729,7 @@
             <ownedParameter xmi:id="_QAxA8fXaEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
           </ownedOperation>
         </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_YvRcgPUGEeeiT--8q7QodA" name="Citatel" clientDependency="_QBO7APXaEeelTr33Z6lT7A">
+        <packagedElement xmi:type="uml:Class" xmi:id="_YvRcgPUGEeeiT--8q7QodA" name="Citatel" clientDependency="_FdvG9PdiEeehj5d5v4NUIQ _QBO7APXaEeelTr33Z6lT7A">
           <ownedComment xmi:id="_YvRcgfUGEeeiT--8q7QodA" annotatedElement="_YvRcgPUGEeeiT--8q7QodA">
             <body>&lt;p>Trieda reprezentuje údaje evidované o jednotlivých čitateľoch.&lt;/p></body>
           </ownedComment>
@@ -698,6 +788,10 @@
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YvRclPUGEeeiT--8q7QodA" value="*"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YvRclfUGEeeiT--8q7QodA"/>
           </ownedAttribute>
+          <interfaceRealization xmi:id="_FdvG9PdiEeehj5d5v4NUIQ" client="_YvRcgPUGEeeiT--8q7QodA">
+            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+          </interfaceRealization>
           <interfaceRealization xmi:id="_QBO7APXaEeelTr33Z6lT7A" client="_YvRcgPUGEeeiT--8q7QodA">
             <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
             <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
@@ -790,7 +884,7 @@
             </ownedParameter>
           </ownedOperation>
         </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_YvSDkPUGEeeiT--8q7QodA" name="Publikacia" clientDependency="_QAeGAvXaEeelTr33Z6lT7A">
+        <packagedElement xmi:type="uml:Class" xmi:id="_YvSDkPUGEeeiT--8q7QodA" name="Publikacia" clientDependency="_FcfJwPdiEeehj5d5v4NUIQ _QAeGAvXaEeelTr33Z6lT7A">
           <ownedComment xmi:id="_YvSDkfUGEeeiT--8q7QodA" annotatedElement="_YvSDkPUGEeeiT--8q7QodA">
             <body>&lt;p>Trieda reprezentuje údaje evidované o jednotlivých publikáciách.&lt;br>&lt;/p></body>
           </ownedComment>
@@ -841,6 +935,10 @@
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YvSDnPUGEeeiT--8q7QodA" value="*"/>
             <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YvSDnfUGEeeiT--8q7QodA"/>
           </ownedAttribute>
+          <interfaceRealization xmi:id="_FcfJwPdiEeehj5d5v4NUIQ" client="_YvSDkPUGEeeiT--8q7QodA">
+            <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+            <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznica1EJB%5D$uml.Interface"/>
+          </interfaceRealization>
           <interfaceRealization xmi:id="_QAeGAvXaEeelTr33Z6lT7A" client="_YvSDkPUGEeeiT--8q7QodA">
             <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
             <contract href="mmi:///#jbintype%5Ename=java.io.Serializable%5Bproject%5Eid=kniznicaWEB%5D$uml.Interface"/>
@@ -981,14 +1079,17 @@
           </ownedOperation>
           <ownedOperation xmi:id="_P_GNAPXaEeelTr33Z6lT7A" name="createPublikacia" visibility="public">
             <ownedParameter xmi:id="_P_G0EPXaEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_P_HbIPXaEeelTr33Z6lT7A" name="deletePublikacia" visibility="public">
             <ownedParameter xmi:id="_P_HbIfXaEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_P_IpQPXaEeelTr33Z6lT7A" name="updatePublikacia" visibility="public">
             <ownedParameter xmi:id="_P_IpQfXaEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_P_J3YPXaEeelTr33Z6lT7A" name="findPublikaciaByEcp" visibility="public">
@@ -999,6 +1100,18 @@
           </ownedOperation>
           <ownedOperation xmi:id="_P_LFgPXaEeelTr33Z6lT7A" name="getNewPublikacia" visibility="public">
             <ownedParameter xmi:id="_P_LFgfXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvSDkPUGEeeiT--8q7QodA" direction="return"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_Fb4s0PdiEeehj5d5v4NUIQ" name="Publikacia_find" visibility="public">
+            <ownedParameter xmi:id="_Fb4s0fdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvSDkPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Fb5T4PdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Fb5T4fdiEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_Fb6iAPdiEeehj5d5v4NUIQ" name="autor">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_Fb6iAfdiEeehj5d5v4NUIQ" name="nazov">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_P_LskPXaEeelTr33Z6lT7A" name="Publikacia_findAll" visibility="public">
             <ownedParameter xmi:id="_P_MToPXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvSDkPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
@@ -1019,14 +1132,17 @@
           </ownedOperation>
           <ownedOperation xmi:id="_P_9IofXaEeelTr33Z6lT7A" name="createCitatel" visibility="public">
             <ownedParameter xmi:id="_P_9vsPXaEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_P_-WwPXaEeelTr33Z6lT7A" name="deleteCitatel" visibility="public">
             <ownedParameter xmi:id="_P_-90PXaEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QAAL8PXaEeelTr33Z6lT7A" name="updateCitatel" visibility="public">
             <ownedParameter xmi:id="_QAAzAPXaEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QABaEPXaEeelTr33Z6lT7A" name="findCitatelByEcc" visibility="public">
@@ -1037,6 +1153,24 @@
           </ownedOperation>
           <ownedOperation xmi:id="_QADPQPXaEeelTr33Z6lT7A" name="getNewCitatel" visibility="public">
             <ownedParameter xmi:id="_QADPQfXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvRcgPUGEeeiT--8q7QodA" direction="return"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FcH9YPdiEeehj5d5v4NUIQ" name="Citatel_findByRc" visibility="public">
+            <ownedParameter xmi:id="_FcH9YfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvRcgPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FcH9YvdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FcIkcPdiEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FcIkcvdiEeehj5d5v4NUIQ" name="rc">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FcJykPdiEeehj5d5v4NUIQ" name="Citatel_findByPriezvisko" visibility="public">
+            <ownedParameter xmi:id="_FcJykfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvRcgPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FcJykvdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FcJyk_diEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FcKZoPdiEeehj5d5v4NUIQ" name="priezvisko">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_QAEdYPXaEeelTr33Z6lT7A" name="Citatel_findAll" visibility="public">
             <ownedParameter xmi:id="_QAEdYfXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvRcgPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
@@ -1057,14 +1191,17 @@
           </ownedOperation>
           <ownedOperation xmi:id="_QA0EQPXaEeelTr33Z6lT7A" name="createVypozicka" visibility="public">
             <ownedParameter xmi:id="_QA0EQfXaEeelTr33Z6lT7A" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QA1SYPXaEeelTr33Z6lT7A" name="deleteVypozicka" visibility="public">
             <ownedParameter xmi:id="_QA1SYfXaEeelTr33Z6lT7A" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QA2ggPXaEeelTr33Z6lT7A" name="updateVypozicka" visibility="public">
             <ownedParameter xmi:id="_QA2ggfXaEeelTr33Z6lT7A" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_QA3uoPXaEeelTr33Z6lT7A" name="findVypozickaByPrimaryKey" visibility="public">
@@ -1078,6 +1215,24 @@
           </ownedOperation>
           <ownedOperation xmi:id="_QA48wPXaEeelTr33Z6lT7A" name="getNewVypozicka" visibility="public">
             <ownedParameter xmi:id="_QA48wfXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" direction="return"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdAuMPdiEeehj5d5v4NUIQ" name="Vypozicka_findByEcp" visibility="public">
+            <ownedParameter xmi:id="_FdAuMfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FdBVQPdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FdBVQfdiEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FdBVQ_diEeehj5d5v4NUIQ" name="ecp">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdCjYPdiEeehj5d5v4NUIQ" name="Vypocicka_findByEcc" visibility="public">
+            <ownedParameter xmi:id="_FdCjYfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FdCjYvdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FdCjY_diEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FdDKcPdiEeehj5d5v4NUIQ" name="ecc">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
           </ownedOperation>
           <ownedOperation xmi:id="_QA6K4PXaEeelTr33Z6lT7A" name="Vypozicka_findAll" visibility="public">
             <ownedParameter xmi:id="_QA6K4fXaEeelTr33Z6lT7A" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
@@ -1098,6 +1253,7 @@
             <ownedParameter xmi:id="_vWTB8PXxEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pivMEvXqEeelTr33Z6lT7A" name="najdiCitatela" visibility="package">
@@ -1108,6 +1264,7 @@
             <ownedParameter xmi:id="_pivzIPXqEeelTr33Z6lT7A" name="ecc">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pivzIfXqEeelTr33Z6lT7A" name="najdiCitatela" visibility="package">
@@ -1121,6 +1278,7 @@
             <ownedParameter xmi:id="_piwaMfXqEeelTr33Z6lT7A" name="priezvisko">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_piwaMvXqEeelTr33Z6lT7A" name="aktualizujCitatela" visibility="package">
@@ -1128,6 +1286,7 @@
               <body>&lt;p>Aktualizuje v systéme čitateľa  podľa atribútov v citatel.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pixBQPXqEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pixBQfXqEeelTr33Z6lT7A" name="zrusCitatela" visibility="package">
@@ -1135,6 +1294,7 @@
               <body>&lt;p>Zruší evidenciu zadaného čitateľa v systéme, ak nemá evidované žiadne výpožičky.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pixBQvXqEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pixBQ_XqEeelTr33Z6lT7A" name="zaevidujPublikaciu" visibility="package">
@@ -1145,6 +1305,7 @@
             <ownedParameter xmi:id="_TXuo0PXyEeelTr33Z6lT7A" name="ReturnParameter" direction="return">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pixoUfXqEeelTr33Z6lT7A" name="najdiPublikaciu" visibility="package">
@@ -1155,6 +1316,7 @@
             <ownedParameter xmi:id="_pixoU_XqEeelTr33Z6lT7A" name="ecp">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_piyPYPXqEeelTr33Z6lT7A" name="najdiPublikaciu" visibility="package">
@@ -1174,6 +1336,7 @@
             <ownedParameter xmi:id="_piy2cfXqEeelTr33Z6lT7A" name="nazov">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_piy2cvXqEeelTr33Z6lT7A" name="vyradPublikaciu" visibility="package">
@@ -1185,6 +1348,7 @@
                 <body>&lt;p>&lt;/p></body>
               </ownedComment>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pizdgPXqEeelTr33Z6lT7A" name="vypozicajPublikaciu" visibility="package">
@@ -1196,6 +1360,7 @@
             <ownedParameter xmi:id="_pizdg_XqEeelTr33Z6lT7A" name="vypozicnaLehota">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi0EkPXqEeelTr33Z6lT7A" name="vratPublikaciu" visibility="package">
@@ -1204,6 +1369,7 @@
                 <body>&lt;p>Zruší výpožičku zadanej publikácie v systéme.&lt;/p></body>
               </ownedComment>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi0EkvXqEeelTr33Z6lT7A" name="najdiVypozickyCitatela" visibility="package">
@@ -1215,6 +1381,7 @@
               <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pi0roPXqEeelTr33Z6lT7A"/>
             </ownedParameter>
             <ownedParameter xmi:id="_pi0rovXqEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi0ro_XqEeelTr33Z6lT7A" name="najdiVypozickuPublikacie" visibility="package">
@@ -1224,6 +1391,7 @@
               </ownedComment>
             </ownedParameter>
             <ownedParameter xmi:id="_pi1SsPXqEeelTr33Z6lT7A" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi1SsfXqEeelTr33Z6lT7A" name="predlzVypozicku" visibility="package">
@@ -1234,6 +1402,7 @@
             <ownedParameter xmi:id="_pi15wPXqEeelTr33Z6lT7A" name="pocetDni">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi15wfXqEeelTr33Z6lT7A" name="predlzVypozicku" visibility="package">
@@ -1244,6 +1413,7 @@
             <ownedParameter xmi:id="_pi15w_XqEeelTr33Z6lT7A" name="pocetDni">
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi2g0PXqEeelTr33Z6lT7A" name="aktualizujVypozicku" visibility="package">
@@ -1251,6 +1421,7 @@
               <body>&lt;p>Aktualizuje výpožičku v systéme podľa parametra vypozicka.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pi2g0fXqEeelTr33Z6lT7A" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi2g0vXqEeelTr33Z6lT7A" name="zosynchronizujVypozickyCitatela" visibility="package">
@@ -1258,6 +1429,7 @@
               <body>&lt;p>U zadaného čitateľa zosynchronizuje jeho výpožičky podľa evidencie v systéme.&lt;/p></body>
             </ownedComment>
             <ownedParameter xmi:id="_pi3H4PXqEeelTr33Z6lT7A" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi3H4fXqEeelTr33Z6lT7A" name="zosynchronizujVypozickuPublikacie" visibility="package">
@@ -1269,6 +1441,7 @@
                 <body>&lt;p>&lt;/p></body>
               </ownedComment>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
           <ownedOperation xmi:id="_pi3H4_XqEeelTr33Z6lT7A" name="najdiVsetkyVypozicky" visibility="package">
@@ -1279,9 +1452,280 @@
               <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pi3u8fXqEeelTr33Z6lT7A" value="*"/>
               <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pi3u8vXqEeelTr33Z6lT7A"/>
             </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
             <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznicaWEB%5D$uml.Class"/>
           </ownedOperation>
         </packagedElement>
+        <packagedElement xmi:type="uml:Class" xmi:id="_Fblx4fdiEeehj5d5v4NUIQ" name="ManazerKniznice" clientDependency="_Fdf2YPdiEeehj5d5v4NUIQ _suGSgPdjEeehj5d5v4NUIQ _yi14UPdjEeehj5d5v4NUIQ _zzfn4PdjEeehj5d5v4NUIQ">
+          <ownedComment xmi:id="_Fblx4vdiEeehj5d5v4NUIQ" annotatedElement="_Fblx4fdiEeehj5d5v4NUIQ">
+            <body>Session&amp;nbsp;Bean&amp;nbsp;implementation&amp;nbsp;class&amp;nbsp;ManazerKniznice</body>
+          </ownedComment>
+          <ownedAttribute xmi:id="_FdE_oPdiEeehj5d5v4NUIQ" name="cm" visibility="private" type="_P-phEPXaEeelTr33Z6lT7A"/>
+          <ownedAttribute xmi:id="_FdGNwPdiEeehj5d5v4NUIQ" name="pm" visibility="private" type="_P-izYPXaEeelTr33Z6lT7A"/>
+          <ownedAttribute xmi:id="_FdHb4PdiEeehj5d5v4NUIQ" name="vm" visibility="private" type="_P-xc4PXaEeelTr33Z6lT7A"/>
+          <interfaceRealization xmi:id="_Fdf2YPdiEeehj5d5v4NUIQ" supplier="_skr-UPXjEeelTr33Z6lT7A" client="_Fblx4fdiEeehj5d5v4NUIQ" contract="_skr-UPXjEeelTr33Z6lT7A"/>
+          <ownedOperation xmi:id="_FdIC8PdiEeehj5d5v4NUIQ" name="ManazerKniznice" visibility="public">
+            <ownedComment xmi:id="_FdIC8fdiEeehj5d5v4NUIQ" annotatedElement="_FdIC8PdiEeehj5d5v4NUIQ">
+              <body>Default&amp;nbsp;constructor.</body>
+            </ownedComment>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdIqAfdiEeehj5d5v4NUIQ" name="vytvorCitatela" visibility="public">
+            <ownedParameter xmi:id="_FdIqAvdiEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FdJREPdiEeehj5d5v4NUIQ" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdJ4IPdiEeehj5d5v4NUIQ" name="najdiCitatela" visibility="public">
+            <ownedParameter xmi:id="_FdJ4IfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvRcgPUGEeeiT--8q7QodA" direction="return"/>
+            <ownedParameter xmi:id="_FdKfMPdiEeehj5d5v4NUIQ" name="ecc">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdLGQPdiEeehj5d5v4NUIQ" name="najdiCitatela" visibility="public">
+            <ownedParameter xmi:id="_FdLGQfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvRcgPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FdLtUPdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FdLtUfdiEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FdLtU_diEeehj5d5v4NUIQ" name="priezvisko">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdM7cPdiEeehj5d5v4NUIQ" name="aktualizujCitatela" visibility="public">
+            <ownedParameter xmi:id="_FdM7cfdiEeehj5d5v4NUIQ" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdNigPdiEeehj5d5v4NUIQ" name="zrusCitatela" visibility="public">
+            <ownedParameter xmi:id="_FdOJkPdiEeehj5d5v4NUIQ" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdOwoPdiEeehj5d5v4NUIQ" name="zaevidujPublikaciu" visibility="public">
+            <ownedParameter xmi:id="_FdOwofdiEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FdPXsPdiEeehj5d5v4NUIQ" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdP-wPdiEeehj5d5v4NUIQ" name="najdiPublikaciu" visibility="public">
+            <ownedParameter xmi:id="_FdP-wfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvSDkPUGEeeiT--8q7QodA" direction="return"/>
+            <ownedParameter xmi:id="_FdQl0PdiEeehj5d5v4NUIQ" name="ecp">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdRM4PdiEeehj5d5v4NUIQ" name="najdiPublikaciu" visibility="public">
+            <ownedParameter xmi:id="_FdRM4fdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvSDkPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FdRM4vdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FdRM4_diEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FdRz8fdiEeehj5d5v4NUIQ" name="autor">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FdRz8vdiEeehj5d5v4NUIQ" name="nazov">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdSbAPdiEeehj5d5v4NUIQ" name="vyradPublikaciu" visibility="public">
+            <ownedParameter xmi:id="_FdTCEPdiEeehj5d5v4NUIQ" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdTpIPdiEeehj5d5v4NUIQ" name="vypozicajPublikaciu" visibility="public">
+            <ownedParameter xmi:id="_FdUQMPdiEeehj5d5v4NUIQ" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <ownedParameter xmi:id="_FdUQMfdiEeehj5d5v4NUIQ" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <ownedParameter xmi:id="_FdUQMvdiEeehj5d5v4NUIQ" name="vypozicnaLehota">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdU3QPdiEeehj5d5v4NUIQ" name="vratPublikaciu" visibility="public">
+            <ownedParameter xmi:id="_FdVeUPdiEeehj5d5v4NUIQ" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdWFYPdiEeehj5d5v4NUIQ" name="najdiVypozickyCitatela" visibility="public">
+            <ownedParameter xmi:id="_FdWFYfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FdWscPdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FdWscfdiEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <ownedParameter xmi:id="_FdWsc_diEeehj5d5v4NUIQ" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdX6kPdiEeehj5d5v4NUIQ" name="najdiVypozickuPublikacie" visibility="public">
+            <ownedParameter xmi:id="_FdX6kfdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" direction="return"/>
+            <ownedParameter xmi:id="_FdX6kvdiEeehj5d5v4NUIQ" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdZIsPdiEeehj5d5v4NUIQ" name="predlzVypozicku" visibility="public">
+            <ownedParameter xmi:id="_FdZIsfdiEeehj5d5v4NUIQ" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <ownedParameter xmi:id="_FdZIsvdiEeehj5d5v4NUIQ" name="pocetDni">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdaW0PdiEeehj5d5v4NUIQ" name="predlzVypozicku" visibility="public">
+            <ownedParameter xmi:id="_FdaW0fdiEeehj5d5v4NUIQ" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
+            <ownedParameter xmi:id="_FdaW0vdiEeehj5d5v4NUIQ" name="pocetDni">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+            </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_Fda94PdiEeehj5d5v4NUIQ" name="aktualizujVypozicku" visibility="public">
+            <ownedParameter xmi:id="_Fdbk8PdiEeehj5d5v4NUIQ" name="vypozicka" type="_YvQ1cPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdcMAPdiEeehj5d5v4NUIQ" name="zosynchronizujVypozickyCitatela" visibility="public">
+            <ownedParameter xmi:id="_FdczEPdiEeehj5d5v4NUIQ" name="citatel" type="_YvRcgPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FddaIPdiEeehj5d5v4NUIQ" name="zosynchronizujVypozickuPublikacie" visibility="public">
+            <ownedParameter xmi:id="_FddaIfdiEeehj5d5v4NUIQ" name="publikacia" type="_YvSDkPUGEeeiT--8q7QodA"/>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+          <ownedOperation xmi:id="_FdeBMPdiEeehj5d5v4NUIQ" name="najdiVsetkyVypozicky" visibility="public">
+            <ownedParameter xmi:id="_FdeoQPdiEeehj5d5v4NUIQ" name="ReturnParameter" type="_YvQ1cPUGEeeiT--8q7QodA" isOrdered="true" isUnique="false" direction="return">
+              <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FdeoQfdiEeehj5d5v4NUIQ" value="*"/>
+              <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FdeoQvdiEeehj5d5v4NUIQ"/>
+            </ownedParameter>
+            <raisedException xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Exception%5Bproject%5Eid=kniznica1EJB%5D$uml.Class"/>
+          </ownedOperation>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Usage" xmi:id="_suGSgPdjEeehj5d5v4NUIQ" supplier="_P-phEPXaEeelTr33Z6lT7A" client="_Fblx4fdiEeehj5d5v4NUIQ"/>
+        <packagedElement xmi:type="uml:Usage" xmi:id="_yi14UPdjEeehj5d5v4NUIQ" supplier="_P-xc4PXaEeelTr33Z6lT7A" client="_Fblx4fdiEeehj5d5v4NUIQ"/>
+        <packagedElement xmi:type="uml:Usage" xmi:id="_zzfn4PdjEeehj5d5v4NUIQ" supplier="_P-izYPXaEeelTr33Z6lT7A" client="_Fblx4fdiEeehj5d5v4NUIQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_9q-2MPa6Eee0M-1KmaNGlg" name="ui">
+        <eAnnotations xmi:id="_9q-2Mfa6Eee0M-1KmaNGlg" source="uml2.diagrams" references="_9q-2Mva6Eee0M-1KmaNGlg">
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_9q-2Mva6Eee0M-1KmaNGlg" type="Freeform" name="Main">
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_-PInsPdgEeehj5d5v4NUIQ" element="_yHp4gfdgEeehj5d5v4NUIQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+              <children xmi:type="notation:DecorationNode" xmi:id="_-PM5IPdgEeehj5d5v4NUIQ" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_-PM5IfdgEeehj5d5v4NUIQ" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_-PNgMPdgEeehj5d5v4NUIQ" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_-PNgMfdgEeehj5d5v4NUIQ" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_-PNgMvdgEeehj5d5v4NUIQ" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_-POHQPdgEeehj5d5v4NUIQ" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_-POHQfdgEeehj5d5v4NUIQ" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_-POuUPdgEeehj5d5v4NUIQ" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_-PPVYPdgEeehj5d5v4NUIQ" visible="false" type="StructureCompartment"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-PInsfdgEeehj5d5v4NUIQ" x="10164" y="2112"/>
+            </children>
+            <element xsi:nil="true"/>
+          </contents>
+        </eAnnotations>
+        <packagedElement xmi:type="uml:Class" xmi:id="_yHp4gfdgEeehj5d5v4NUIQ" name="NovyCitatelUI" clientDependency="_TU2jkPdpEeehj5d5v4NUIQ">
+          <ownedAttribute xmi:id="_yLLGkPdgEeehj5d5v4NUIQ" name="meno" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <defaultValue xmi:type="uml:LiteralNull" xmi:id="_yLLtoPdgEeehj5d5v4NUIQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yLMUsPdgEeehj5d5v4NUIQ" name="priezvisko" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <defaultValue xmi:type="uml:LiteralNull" xmi:id="_yLMUsfdgEeehj5d5v4NUIQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yLM7wPdgEeehj5d5v4NUIQ" name="rc" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yLNi0PdgEeehj5d5v4NUIQ" name="mesto" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yLNi0fdgEeehj5d5v4NUIQ" name="psc" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yLOJ4PdgEeehj5d5v4NUIQ" name="ulica" visibility="private">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yLOw8PdgEeehj5d5v4NUIQ" name="citatel" visibility="private">
+            <type xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Citatel%5Bjcu%5Ename=Citatel.java%5Bjpack%5Ename=kniznica.entities%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=kniznica1EJB%5D%5D%5D%5D$uml.Class"/>
+            <defaultValue xmi:type="uml:LiteralNull" xmi:id="_yLPYAPdgEeehj5d5v4NUIQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yLPYAfdgEeehj5d5v4NUIQ" name="status" visibility="private">
+            <ownedComment xmi:id="_B5f_oPdsEeehj5d5v4NUIQ" annotatedElement="_yLPYAfdgEeehj5d5v4NUIQ">
+              <body>&lt;p>Textová správa informujúca o úspešnej/neúspešnej realizácii operácie vytvorCitatela.&lt;/p></body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <defaultValue xmi:type="uml:LiteralNull" xmi:id="_yLPYAvdgEeehj5d5v4NUIQ"/>
+          </ownedAttribute>
+          <ownedAttribute xmi:id="_yLP_EPdgEeehj5d5v4NUIQ" name="mk" visibility="package">
+            <type xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=ManazerKnizniceFacade%5Bjcu%5Ename=ManazerKnizniceFacade.java%5Bjpack%5Ename=kniznica.controller%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=kniznica1EJB%5D%5D%5D%5D$uml.Interface"/>
+          </ownedAttribute>
+          <ownedOperation xmi:id="_yLRNMPdgEeehj5d5v4NUIQ" name="getMeno" visibility="public">
+            <ownedParameter xmi:id="_yLR0QPdgEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLSbUPdgEeehj5d5v4NUIQ" name="setMeno" visibility="public">
+            <ownedParameter xmi:id="_yLSbUfdgEeehj5d5v4NUIQ" name="meno">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLTCYPdgEeehj5d5v4NUIQ" name="getPriezvisko" visibility="public">
+            <ownedParameter xmi:id="_yLTCYfdgEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLTCYvdgEeehj5d5v4NUIQ" name="setPriezvisko" visibility="public">
+            <ownedParameter xmi:id="_yLTpcPdgEeehj5d5v4NUIQ" name="priezvisko">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLTpcfdgEeehj5d5v4NUIQ" name="getRc" visibility="public">
+            <ownedParameter xmi:id="_yLUQgPdgEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLUQgfdgEeehj5d5v4NUIQ" name="setRc" visibility="public">
+            <ownedParameter xmi:id="_yLU3kPdgEeehj5d5v4NUIQ" name="rc">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLU3kfdgEeehj5d5v4NUIQ" name="getMesto" visibility="public">
+            <ownedParameter xmi:id="_yLU3kvdgEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLVeoPdgEeehj5d5v4NUIQ" name="setMesto" visibility="public">
+            <ownedParameter xmi:id="_yLVeofdgEeehj5d5v4NUIQ" name="mesto">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLWFsPdgEeehj5d5v4NUIQ" name="getPsc" visibility="public">
+            <ownedParameter xmi:id="_yLWFsfdgEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLWFsvdgEeehj5d5v4NUIQ" name="setPsc" visibility="public">
+            <ownedParameter xmi:id="_yLWswPdgEeehj5d5v4NUIQ" name="psc">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLWswfdgEeehj5d5v4NUIQ" name="getUlica" visibility="public">
+            <ownedParameter xmi:id="_yLWswvdgEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLXT0PdgEeehj5d5v4NUIQ" name="setUlica" visibility="public">
+            <ownedParameter xmi:id="_yLXT0fdgEeehj5d5v4NUIQ" name="ulica">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLX64PdgEeehj5d5v4NUIQ" name="getStatus" visibility="public">
+            <ownedParameter xmi:id="_yLX64fdgEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLYh8PdgEeehj5d5v4NUIQ" name="setStatus" visibility="public">
+            <ownedParameter xmi:id="_yLYh8fdgEeehj5d5v4NUIQ" name="status">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+          <ownedOperation xmi:id="_yLYh8vdgEeehj5d5v4NUIQ" name="vytvorCitatela" visibility="public">
+            <ownedParameter xmi:id="_yLZJAPdgEeehj5d5v4NUIQ" name="ReturnParameter" direction="return">
+              <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            </ownedParameter>
+          </ownedOperation>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Usage" xmi:id="_TU2jkPdpEeehj5d5v4NUIQ" supplier="_skr-UPXjEeelTr33Z6lT7A" client="_yHp4gfdgEeehj5d5v4NUIQ"/>
       </packagedElement>
     </packagedElement>
     <profileApplication xmi:id="_YrYGAfUEEeeiT--8q7QodA">
@@ -1362,4 +1806,16 @@
   <Default:Documentation xmi:id="_o1RIcPXyEeelTr33Z6lT7A" base_Comment="_o1OsMPXyEeelTr33Z6lT7A"/>
   <Default:Documentation xmi:id="_5ONFwPXyEeelTr33Z6lT7A" base_Comment="_5OJbYPXyEeelTr33Z6lT7A"/>
   <Default:Documentation xmi:id="_fkUJIPawEee0M-1KmaNGlg" base_Comment="_fkK_MPawEee0M-1KmaNGlg"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_badc8PdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_FdeoQPdiEeehj5d5v4NUIQ"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_baerEPdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_FcH9YfdiEeehj5d5v4NUIQ"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_bafSIPdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_Fb4s0fdiEeehj5d5v4NUIQ"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_baf5MPdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_FdRM4fdiEeehj5d5v4NUIQ"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_bahHUPdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_FdWFYfdiEeehj5d5v4NUIQ"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_bahuYPdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_FdLGQfdiEeehj5d5v4NUIQ"/>
+  <Default:Documentation xmi:id="_baiVcPdiEeehj5d5v4NUIQ" base_Comment="_Fblx4vdiEeehj5d5v4NUIQ"/>
+  <Default:Documentation xmi:id="_bai8gPdiEeehj5d5v4NUIQ" base_Comment="_FdIC8fdiEeehj5d5v4NUIQ"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_bakKoPdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_FcJykfdiEeehj5d5v4NUIQ"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_bakxsPdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_FdAuMfdiEeehj5d5v4NUIQ"/>
+  <JavaTransformation50:JavaCollection2 xmi:id="_balYwPdiEeehj5d5v4NUIQ" collectionType="java.util.List" base_TypedElement="_FdCjYfdiEeehj5d5v4NUIQ"/>
+  <Default:Documentation xmi:id="_B5jqAPdsEeehj5d5v4NUIQ" base_Comment="_B5f_oPdsEeehj5d5v4NUIQ"/>
 </xmi:XMI>

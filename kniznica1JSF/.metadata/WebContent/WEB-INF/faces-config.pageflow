@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf15139367305850" configfile="/kniznicaJSF/WebContent/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="NovyCitatel.xhtml" id="pf15148844841205" referenceLink="//@navigationRule.1/@fromViewId|" outlinks="pf15148844841206 pf15148844841207" path="/NovyCitatel.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="NovyCitatelOK.xhtml" id="pf15148844841208" referenceLink="//@navigationRule.0/@navigationCase.0/@toViewId|" inlinks="pf15148844841206" path="/NovyCitatelOK.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="NovyCitatelChyba.xhtml" id="pf15148844841209" referenceLink="//@navigationRule.1/@navigationCase.0/@toViewId|" inlinks="pf15148844841207" path="/NovyCitatelChyba.xhtml"/>
+  <links id="pf15148844841206" target="pf15148844841208" source="pf15148844841205" outcome="OK"/>
+  <links id="pf15148844841207" target="pf15148844841209" source="pf15148844841205" outcome="Chyba"/>
+</pageflow:Pageflow>
