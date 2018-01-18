@@ -23,7 +23,7 @@
 	</dataSource>
 
 <library id="DerbyLib">
-    <fileset dir="C:/glassfish4/javadb/lib"/>
+    <fileset dir="C:\Program Files\IBM\IBMIMShared\plugins"/>
 </library>
 
     <enterpriseApplication id="kniznicaEAR1" location="kniznicaEAR1.ear" name="kniznicaEAR1"/>
